@@ -1,8 +1,8 @@
-
+#include <string>
 #include <iostream>
+using namespace std;
 
-int main()
-{
-    std::cout << "Hello World!\n";
-}
+#include "Jantung.h"
+#include "Manusia.h"
+
 
